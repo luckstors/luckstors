@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on several web and backend projects, focusing on clean architecture and scalable systems.<br>🤝 I’m looking to collaborate on software development, automation tools, and AI-powered apps.<br>🧠 I’m currently learning system design, microservices, machine learning fundamentals, and Golang.<br>💬 Ask me about frontend development, backend logic, REST APIs, and project mentoring.<br>⚡ Fun fact: I rewrite my own projects just to test new technologies.<br>
 
-## 🏆 BIG MONEY NEVER COMES CLEAN 🏆💸💵![EasyMoneyWinkGIF](https://github.com/user-attachments/assets/a17a5a58-97b7-4f68-8617-a43150c3416c)
+## 💵💸🏆 BIG MONEY NEVER COMES CLEAN 🏆💸💵![EasyMoneyWinkGIF](https://github.com/user-attachments/assets/a17a5a58-97b7-4f68-8617-a43150c3416c)
 
 
 ## 🌐 Socials:
