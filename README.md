@@ -1,7 +1,3 @@
-Berikut adalah versi teks polos (pure text) tanpa badge gambar atau komponen eksternal, yang sudah disesuaikan untuk profil **SOC Analyst Tier 1**:
-
----
-
 # 💫 About Me:
 
 * 🔭 **Current Focus:** Working on cybersecurity operations, focusing on SOC monitoring, alert triaging, and incident response (Tier 1).
